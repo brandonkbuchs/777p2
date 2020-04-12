@@ -1,4 +1,0 @@
-# Referenced at /media/brakebu/projects/MobileApp/android/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:39
--keep class androidx.core.app.CoreComponentFactory { <init>(); }
-# Referenced at /media/brakebu/projects/MobileApp/android/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:39
--keep class com.brakebu.brycecanyonparkapp.MainApplication { <init>(); }
